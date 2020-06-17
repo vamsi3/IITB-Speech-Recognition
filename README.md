@@ -6,7 +6,7 @@ This repository contains all my submissions to assignments written during my stu
 
 ## Project
 
-The final project for the course was: **_Facial Emotion Synthesis from Speech_**. More details can be found in the [Project](Project) directory.
+The final project for the course was: <ins>*Facial Emotion Synthesis from Speech*</ins>. More details can be found in the [Project](Project) directory.
 
 ## Author
 
